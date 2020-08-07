@@ -7,7 +7,7 @@ class Searchbox extends React.Component {
             <>
                 <input
                     type="search"
-                    placeholder="search robots"
+                    placeholder="search cats"
                     onChange={this.props.handlechange}
                 />
             </>
