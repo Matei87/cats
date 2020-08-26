@@ -2,7 +2,6 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://matei87.github.io/cats/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,7 +13,6 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
